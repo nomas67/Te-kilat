@@ -19,6 +19,11 @@
             "episode": 2,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/569996/569995.m3u8",
             "subtitle_url": ""
+          },
+          {
+            "episode": 3,
+            "video_url": "https://raw.githubusercontent.com/nomas67/my-hls-video/refs/heads/main/yeralt%C4%B1.m3u8",
+            "subtitle_url": ""
           }
         ]
       }
