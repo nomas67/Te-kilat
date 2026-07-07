@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "id": "item-1783425233589-esaft",
+    "type": "series",
+    "title": "هذا البحر سيفيض",
+    "description": "دراما مشحونة بين عائلتين متعاديتين منذ سنوات طويلة. تنشأ بين الشخصيتين الرئيسيتين علاقة معقدة تجمع بين حب عاصف وكراهية متوارثة من الماضي. وبين قسوة الطبيعة والأجواء العاصفة، تتشابك خيوط الحب المستحيل والعداوة العميقة ومحاولات النجاة، لتتشكل رحلة عاطفية في أعماق البحر الأسود.",
+    "poster": "https://i.top4top.io/p_3784858i31.jpg",
+    "backdrop": "https://a.top4top.io/p_3785jillg1.png",
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "episode": 1,
+            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/566773/566772.m3u8",
+            "subtitle_url": "https://files.catbox.moe/bb098c.vtt"
+          },
+          {
+            "episode": 2,
+            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/569996/569995.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 28,
+            "video_url": "https://raw.githubusercontent.com/nomas67/my-hls-video/refs/heads/main/output.m3u8",
+            "subtitle_url": ""
+          }
+        ]
+      }
+    ]
+  }
+]
