@@ -14,6 +14,11 @@
             "episode": 1,
             "video_url": "https://atv-vod.ercdn.net/video/dizi/yalniz-kurt/1_liim/9ab8b349-8959-4462-bfbc-a535cd64ecb2.hb.smil/playlist.m3u8?st=xRsyJ1mMwad-SyxQPanq_Q&e=1778623863",
             "subtitle_url": "https://files.catbox.moe/wa7mtt.vtt"
+          },
+          {
+            "episode": 2,
+            "video_url": "https://atv-vod.ercdn.net/video/dizi/yalniz-kurt/2_pol2/a34d0672-ea0d-4890-b47b-7323c6028195.hb.smil/playlist.m3u8?st=3GPBN5_mZcRFtTCpMde_bw&e=1778624317",
+            "subtitle_url": "https://files.catbox.moe/wj6dfh.vtt"
           }
         ]
       }
