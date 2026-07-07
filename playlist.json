@@ -1,5 +1,25 @@
 [
   {
+    "id": "item-1783428365649-33ybo",
+    "type": "series",
+    "title": "إسطنبول رأساً على عقب",
+    "description": "تدور أحداث المسلسل حول كفاح إيمير وأصدقائه في حياتهم بأحياء الأطراف. وفي سعيهم وراء أحلامهم، يجد هؤلاء الشباب أنفسهم في مواجهة السلطة والمال والخيانة، مضطرين في كل خطوة يخطونها إلى اتخاذ قرارات ستغير حياتهم ومصائر بعضهم البعض. قصة تتشقق فيها الصداقات، وتتشكل الحب من جديد، ويخوض فيها كل شخص معركته الخاصة — لتأخذ المشاهد في رحلة مشحونة بالمشاعر والإثارة في شوارع إسطنبول المتشابكة",
+    "poster": "https://img.dizi.la/uploads/322851/conversions/qnImGr6hA1GJb0IBxulxoOswF6D-medium.jpg",
+    "backdrop": "https://img.dizi.la/uploads/322852/altiustuistanbul_banner.jpg",
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "episode": 1,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/rasnalaaqb1.m3u8",
+            "subtitle_url": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "item-1783427393536-2msgc",
     "type": "series",
     "title": "في السابعة عشر",
