@@ -83,15 +83,5 @@
         ]
       }
     ]
-  },
-  {
-    "id": "demo-3",
-    "type": "movie",
-    "title": "فيلم الأكشن الكبير",
-    "description": "فيلم مليء بالإثارة والمطاردات القوية.",
-    "poster": "https://example.com/images/movie_action.jpg",
-    "backdrop": "",
-    "video_url": "https://example.com/videos/movie_action.mp4",
-    "subtitle_url": "https://example.com/subs/movie_action.srt"
   }
 ]
