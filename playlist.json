@@ -1,11 +1,76 @@
 [
   {
-    "id": "item-1783429184540-ofkuc",
+    "id": "demo-1",
     "type": "series",
-    "title": "الذئب الوحيد",
+    "title": "هذا البحر سيفيض",
+    "description": "دراما مشحونة بين عائلتين متعاديتين منذ سنوات طويلة. تنشأ بين الشخصيتين الرئيسيتين علاقة معقدة تجمع بين حب عاصف وكراهية متوارثة من الماضي. وبين قسوة الطبيعة والأجواء العاصفة، تتشابك خيوط الحب المستحيل والعداوة العميقة ومحاولات النجاة، لتتشكل رحلة عاطفية في أعماق البحر الأسود.",
+    "poster": "https://i.top4top.io/p_3784858i31.jpg",
+    "backdrop": "",
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "episode": 1,
+            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/566773/566772.m3u8",
+            "subtitle_url": "https://files.catbox.moe/bb098c.vtt"
+          },
+          {
+            "episode": 2,
+            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/569996/569995.m3u8",
+            "subtitle_url": "https://example.com/subs/scifi_ep2.srt"
+          },
+          {
+            "episode": 3,
+            "video_url": "https://raw.githubusercontent.com/nomas67/my-hls-video/refs/heads/main/output.m3u8",
+            "subtitle_url": "https://example.com/subs/scifi_ep2.srt"
+          },
+          {
+            "episode": 4,
+            "video_url": "https://raw.githubusercontent.com/nomas67/my-hls-video/refs/heads/main/index_850x480.m3u8",
+            "subtitle_url": "https://example.com/subs/scifi_ep2.srt"
+          },
+          {
+            "episode": 5,
+            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/577903/577900.m3u8",
+            "subtitle_url": "https://example.com/subs/scifi_ep2.srt"
+          },
+          {
+            "episode": 6,
+            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/580861/580860.m3u8",
+            "subtitle_url": "https://example.com/subs/scifi_ep2.srt"
+          },
+          {
+            "episode": 7,
+            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/583912/583911.m3u8",
+            "subtitle_url": "https://example.com/subs/scifi_ep2.srt"
+          },
+          {
+            "episode": 8,
+            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/586521/586518.m3u8",
+            "subtitle_url": "https://example.com/subs/scifi_ep2.srt"
+          },
+          {
+            "episode": 9,
+            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/588979/588978.m3u8",
+            "subtitle_url": "https://example.com/subs/scifi_ep2.srt"
+          },
+          {
+            "episode": 10,
+            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/592107/592106.m3u8",
+            "subtitle_url": "https://example.com/subs/scifi_ep2.srt"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "demo-2",
+    "type": "series",
+    "title": "مسلسل الذئب",
     "description": "تدور أحداث المسلسل حول صراع بين الخير والشر في إطار من الأكشن والتشويق، حيث يواجه البطل تحديات كبيرة في سبيل تحقيق العدالة.",
     "poster": "https://b.top4top.io/p_3784gb0s81.jpg",
-    "backdrop": "https://k.top4top.io/p_3784bgmup1.jpg",
+    "backdrop": "",
     "seasons": [
       {
         "season": 1,
@@ -14,224 +79,19 @@
             "episode": 1,
             "video_url": "https://atv-vod.ercdn.net/video/dizi/yalniz-kurt/1_liim/9ab8b349-8959-4462-bfbc-a535cd64ecb2.hb.smil/playlist.m3u8?st=xRsyJ1mMwad-SyxQPanq_Q&e=1778623863",
             "subtitle_url": "https://files.catbox.moe/wa7mtt.vtt"
-          },
-          {
-            "episode": 2,
-            "video_url": "https://atv-vod.ercdn.net/video/dizi/yalniz-kurt/2_pol2/a34d0672-ea0d-4890-b47b-7323c6028195.hb.smil/playlist.m3u8?st=3GPBN5_mZcRFtTCpMde_bw&e=1778624317",
-            "subtitle_url": "https://files.catbox.moe/wj6dfh.vtt"
           }
         ]
       }
     ]
   },
   {
-    "id": "item-1783428965538-zk174",
+    "id": "demo-3",
     "type": "movie",
-    "title": "لحظة واحدة",
-    "description": "قصة حب بين \"رُزغار\"، شاب من طبقة بسيطة يعمل في بار، و\"هايال\"، فتاة من عائلة ثرية تدرس القانون. يلتقيان صدفة وتنشأ بينهما علاقة قوية، لكن ماضي رُزغار المظلم يهدد هذه العلاقة",
-    "poster": "https://qesset.org/wp-content/uploads/2025/07/Lahza-long.jpg",
-    "backdrop": "https://qesset.org/wp-content/uploads/2025/07/Lahza-large.jpg",
-    "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/lahzatan.m3u8",
-    "subtitle_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/lahzatan.m3u8"
-  },
-  {
-    "id": "item-1783428365649-33ybo",
-    "type": "series",
-    "title": "إسطنبول رأساً على عقب",
-    "description": "تدور أحداث المسلسل حول كفاح إيمير وأصدقائه في حياتهم بأحياء الأطراف. وفي سعيهم وراء أحلامهم، يجد هؤلاء الشباب أنفسهم في مواجهة السلطة والمال والخيانة، مضطرين في كل خطوة يخطونها إلى اتخاذ قرارات ستغير حياتهم ومصائر بعضهم البعض. قصة تتشقق فيها الصداقات، وتتشكل الحب من جديد، ويخوض فيها كل شخص معركته الخاصة — لتأخذ المشاهد في رحلة مشحونة بالمشاعر والإثارة في شوارع إسطنبول المتشابكة",
-    "poster": "https://img.dizi.la/uploads/322851/conversions/qnImGr6hA1GJb0IBxulxoOswF6D-medium.jpg",
-    "backdrop": "https://img.dizi.la/uploads/322852/altiustuistanbul_banner.jpg",
-    "seasons": [
-      {
-        "season": 1,
-        "episodes": [
-          {
-            "episode": 1,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/rasnalaaqb1.m3u8",
-            "subtitle_url": ""
-          },
-          {
-            "episode": 2,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/rasnalaaqb2.m3u8",
-            "subtitle_url": ""
-          },
-          {
-            "episode": 3,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/rasnalaaqb3.m3u8",
-            "subtitle_url": ""
-          },
-          {
-            "episode": 4,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/rasnalaaqb4.m3u8",
-            "subtitle_url": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "item-1783427393536-2msgc",
-    "type": "series",
-    "title": "في السابعة عشر",
-    "description": "أراس شاب يبلغ 17 عاماً، نشأ بعيداً عن عائلته في دور الأيتام، فقرر يوماً أن يبحث عن حقيقة ماضيه وجذوره المجهولة. رحلته للكشف عن هويته تقوده إلى أسرار عائلية مدفونة، في مدينة بودروم الساحلية الجميلة التي ستشهد مواجهته مع حقيقة قد تغير حياته للأبد",
-    "poster": "https://img.dizi.la/uploads/321088/conversions/erd75Gon5bXL38kngnH6DCrOUj2-medium.jpg",
-    "backdrop": "https://img.dizi.la/uploads/321089/6a0b381a6857e013a393b7cd.jpg",
-    "seasons": [
-      {
-        "season": 1,
-        "episodes": [
-          {
-            "episode": 1,
-            "video_url": "https://raw.githubusercontent.com/nomas67/my-hls-video/refs/heads/main/fi17.m3u8",
-            "subtitle_url": ""
-          },
-          {
-            "episode": 2,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/fi17-2.m3u8",
-            "subtitle_url": ""
-          },
-          {
-            "episode": 3,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/fi17-3.m3u8",
-            "subtitle_url": ""
-          },
-          {
-            "episode": 4,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/fi17-4.m3u8",
-            "subtitle_url": ""
-          },
-          {
-            "episode": 5,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/fi17-5.m3u8",
-            "subtitle_url": ""
-          },
-          {
-            "episode": 6,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/fi17-6.m3u8",
-            "subtitle_url": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "item-1783425233589-esaft",
-    "type": "series",
-    "title": "هذا البحر سيفيض",
-    "description": "دراما مشحونة بين عائلتين متعاديتين منذ سنوات طويلة. تنشأ بين الشخصيتين الرئيسيتين علاقة معقدة تجمع بين حب عاصف وكراهية متوارثة من الماضي. وبين قسوة الطبيعة والأجواء العاصفة، تتشابك خيوط الحب المستحيل والعداوة العميقة ومحاولات النجاة، لتتشكل رحلة عاطفية في أعماق البحر الأسود.",
-    "poster": "https://i.top4top.io/p_3784858i31.jpg",
-    "backdrop": "https://a.top4top.io/p_3785jillg1.png",
-    "seasons": [
-      {
-        "season": 1,
-        "episodes": [
-          {
-            "episode": 1,
-            "video_url": "https://raw.githubusercontent.com/nomas67/my-hls-video/refs/heads/main/baharsiafiz.m3u8",
-            "subtitle_url": ""
-          },
-          {
-            "episode": 2,
-            "video_url": "https://raw.githubusercontent.com/nomas67/my-hls-video/refs/heads/main/baharsiafiz2.m3u8",
-            "subtitle_url": ""
-          },
-          {
-            "episode": 3,
-            "video_url": "https://raw.githubusercontent.com/nomas67/my-hls-video/refs/heads/main/baharsiafiz3.m3u8",
-            "subtitle_url": ""
-          },
-          {
-            "episode": 4,
-            "video_url": "https://raw.githubusercontent.com/nomas67/my-hls-video/refs/heads/main/baharsiafiz4.m3u8",
-            "subtitle_url": ""
-          },
-          {
-            "episode": 5,
-            "video_url": "https://raw.githubusercontent.com/nomas67/my-hls-video/refs/heads/main/baharsiafiz5.m3u8",
-            "subtitle_url": ""
-          },
-          {
-            "episode": 6,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz6.m3u8",
-            "subtitle_url": ""
-          },
-          {
-            "episode": 7,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz7.m3u8",
-            "subtitle_url": ""
-          },
-          {
-            "episode": 8,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz8.m3u8",
-            "subtitle_url": ""
-          },
-          {
-            "episode": 9,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz9.m3u8",
-            "subtitle_url": ""
-          },
-          {
-            "episode": 10,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz10.m3u8",
-            "subtitle_url": ""
-          },
-          {
-            "episode": 11,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz11.m3u8",
-            "subtitle_url": ""
-          },
-          {
-            "episode": 12,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz12.m3u8",
-            "subtitle_url": ""
-          },
-          {
-            "episode": 13,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz13.m3u8",
-            "subtitle_url": ""
-          },
-          {
-            "episode": 14,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz14.m3u8",
-            "subtitle_url": ""
-          },
-          {
-            "episode": 15,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz15.m3u8",
-            "subtitle_url": ""
-          },
-          {
-            "episode": 16,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz16.m3u8",
-            "subtitle_url": ""
-          },
-          {
-            "episode": 17,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz17.m3u8",
-            "subtitle_url": ""
-          },
-          {
-            "episode": 18,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz18.m3u8",
-            "subtitle_url": ""
-          },
-          {
-            "episode": 19,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz19.m3u8",
-            "subtitle_url": ""
-          },
-          {
-            "episode": 20,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz20.m3u8",
-            "subtitle_url": ""
-          },
-          {
-            "episode": 21,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz21.m3u8",
-            "subtitle_url": ""
-          }
-        ]
-      }
-    ]
+    "title": "فيلم الأكشن الكبير",
+    "description": "فيلم مليء بالإثارة والمطاردات القوية.",
+    "poster": "https://example.com/images/movie_action.jpg",
+    "backdrop": "",
+    "video_url": "https://example.com/videos/movie_action.mp4",
+    "subtitle_url": "https://example.com/subs/movie_action.srt"
   }
 ]
