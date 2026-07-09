@@ -1,5 +1,50 @@
 [
   {
+    "id": "item-1783668424484-nda2n",
+    "type": "series",
+    "title": "في السابعة عشر",
+    "description": "نشأ أراس بين جدران دور الأيتام، وحيداً مع أسئلة لا إجابة لها. لكن شيئاً ما دفعه للبحث في ماضيه المجهول، فكانت بودروم بشمسها وبحرها الأزرق مسرحاً لمواجهته مع حقيقة طالما أخفتها السنوات.",
+    "poster": "https://krmizi.onl/wp-content/uploads/2026/05/Daha-17-genis-v2.jpg",
+    "backdrop": "",
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "episode": 1,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/fi17.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 2,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/fi17-2.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 3,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/fi17-3.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 4,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/fi17-4.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 5,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/fi17-5.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 6,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/fi17-6.m3u8",
+            "subtitle_url": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "item-1783660202085-r3yxj",
     "type": "series",
     "title": "حب بلا حدود",
