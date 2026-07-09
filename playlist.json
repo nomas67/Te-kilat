@@ -12,53 +12,118 @@
         "episodes": [
           {
             "episode": 1,
-            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/566773/566772.m3u8",
-            "subtitle_url": "https://files.catbox.moe/bb098c.vtt"
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz.m3u8",
+            "subtitle_url": ""
           },
           {
             "episode": 2,
-            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/569996/569995.m3u8",
-            "subtitle_url": "https://example.com/subs/scifi_ep2.srt"
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz2.m3u8",
+            "subtitle_url": ""
           },
           {
             "episode": 3,
-            "video_url": "https://raw.githubusercontent.com/nomas67/my-hls-video/refs/heads/main/output.m3u8",
-            "subtitle_url": "https://example.com/subs/scifi_ep2.srt"
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz3.m3u8",
+            "subtitle_url": ""
           },
           {
             "episode": 4,
-            "video_url": "https://raw.githubusercontent.com/nomas67/my-hls-video/refs/heads/main/index_850x480.m3u8",
-            "subtitle_url": "https://example.com/subs/scifi_ep2.srt"
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz4.m3u8",
+            "subtitle_url": ""
           },
           {
             "episode": 5,
-            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/577903/577900.m3u8",
-            "subtitle_url": "https://example.com/subs/scifi_ep2.srt"
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz5.m3u8",
+            "subtitle_url": ""
           },
           {
             "episode": 6,
-            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/580861/580860.m3u8",
-            "subtitle_url": "https://example.com/subs/scifi_ep2.srt"
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz6.m3u8",
+            "subtitle_url": ""
           },
           {
             "episode": 7,
-            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/583912/583911.m3u8",
-            "subtitle_url": "https://example.com/subs/scifi_ep2.srt"
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz7.m3u8",
+            "subtitle_url": ""
           },
           {
             "episode": 8,
-            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/586521/586518.m3u8",
-            "subtitle_url": "https://example.com/subs/scifi_ep2.srt"
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz8.m3u8",
+            "subtitle_url": ""
           },
           {
             "episode": 9,
-            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/588979/588978.m3u8",
-            "subtitle_url": "https://example.com/subs/scifi_ep2.srt"
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz9.m3u8",
+            "subtitle_url": ""
           },
           {
             "episode": 10,
-            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/592107/592106.m3u8",
-            "subtitle_url": "https://example.com/subs/scifi_ep2.srt"
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz10.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 11,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz11.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 12,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz12.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 13,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz13.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 14,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz14.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 15,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz15.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 16,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz16.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 17,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz17.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 18,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz18.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 19,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz19.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 20,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz20.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 21,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz21.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 22,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz22.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 23,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz23.m3u8",
+            "subtitle_url": ""
           }
         ]
       }
