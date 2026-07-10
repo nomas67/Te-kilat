@@ -424,6 +424,46 @@
             "episode": 23,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz23.m3u8",
             "subtitle_url": ""
+          },
+          {
+            "episode": 24,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz24.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 25,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz25.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 26,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz26.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 27,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz27.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 28,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz28.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 29,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz29.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 30,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz30.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 31,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz31.m3u8",
+            "subtitle_url": ""
           }
         ]
       }
