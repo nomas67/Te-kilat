@@ -484,6 +484,11 @@
             "episode": 1,
             "video_url": "https://atv-vod.ercdn.net/video/dizi/yalniz-kurt/1_liim/9ab8b349-8959-4462-bfbc-a535cd64ecb2.hb.smil/playlist.m3u8?st=xRsyJ1mMwad-SyxQPanq_Q&e=1778623863",
             "subtitle_url": "https://files.catbox.moe/wa7mtt.vtt"
+          },
+          {
+            "episode": 2,
+            "video_url": "https://atv-vod.ercdn.net/video/dizi/yalniz-kurt/2_pol2/a34d0672-ea0d-4890-b47b-7323c6028195.hb.smil/hlssubplaylist-ovbnqq8h_oacnCr7.m3u8?st=zC8emfKDl9oshS3tcjz8jA&e=1783754008",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/Yalniz.Kurt.2022.S01E02.1080p.NoorPlay.WEB-DL.AAC.2.0.x264-POWER.srt"
           }
         ]
       }
