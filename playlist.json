@@ -1,5 +1,40 @@
 [
   {
+    "id": "item-1783709649705-ok841",
+    "type": "series",
+    "title": "إسطنبول رأساً على عقب",
+    "description": "يعيش إيمير وأصدقاؤه في أحياء الأطراف، يلاحقون أحلامهم في مواجهة السلطة والمال والخيانة.يعيش إيمير (راهيمجان كابكاب) وأصدقاؤه في أحياء الأطراف، يلاحقون أحلامهم في مواجهة السلطة والمال والخيانة. في كل خطوة يخطونها، تنتظرهم قرارات مصيرية تغير حياتهم ومصائر بعضهم البعض. صداقات تتهاوى، وعلاقات تُعاد من الصفر، وكل شخص يخوض حربه وحده — في شوارع إسطنبول الصاخبة التي تحمل المشاهد في رحلة لا تهدأ",
+    "poster": "https://krmizi.onl/wp-content/uploads/2026/06/Alti-Ustu-Istanbul-genis.jpg",
+    "backdrop": "",
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "episode": 1,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/rasnalaaqb1.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 2,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/rasnalaaqb2.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 3,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/rasnalaaqb3.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 4,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/rasnalaaqb4.m3u8",
+            "subtitle_url": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "item-1783668424484-nda2n",
     "type": "series",
     "title": "في السابعة عشر",
