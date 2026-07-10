@@ -14,6 +14,81 @@
             "episode": 1,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B1.m3u8",
             "subtitle_url": ""
+          },
+          {
+            "episode": 2,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B12.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 3,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B13.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 4,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B14.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 5,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B15.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 6,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B16.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 7,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B17.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 8,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B18.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 9,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B19.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 10,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B110.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 11,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B111.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 12,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B112.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 13,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B113.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 14,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B114.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 15,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B115.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 16,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B116.m3u8",
+            "subtitle_url": ""
           }
         ]
       }
