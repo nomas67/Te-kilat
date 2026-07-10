@@ -1,5 +1,110 @@
 [
   {
+    "id": "item-1783699515333-c35tg",
+    "type": "series",
+    "title": "اخي",
+    "description": "يحكي مسلسل أخي حكاية دوغان الحافلة بالخفايا، الذي فرّ من تاريخ أسرته القاتم وانتقل إلى حياة مغايرة كلياً ظناً منه أنه تخلص من ماضيه. إلا أن الزمن يفرض عليه بعد أعوام من الهروب أن يعود ويواجه الأسرار الدفينة والذكريات المؤلمة التي حاول طمسها.",
+    "poster": "https://krmizi.onl/wp-content/uploads/2025/12/Abi-genis.jpg",
+    "backdrop": "",
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "episode": 1,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake1.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 2,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake2.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 3,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake3.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 4,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake4.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 5,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake5.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 6,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake6.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 7,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake7.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 8,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake8.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 9,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake9.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 10,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake10.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 11,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake11.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 12,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake12.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 13,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake13.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 14,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake14.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 15,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake15.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 16,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake16.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 17,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake17.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 18,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake18.m3u8",
+            "subtitle_url": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "item-1783709883527-5b1pl",
     "type": "series",
     "title": "تحت الارض",
