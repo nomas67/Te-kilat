@@ -1,5 +1,195 @@
 [
   {
+    "id": "item-1783758492027-gzg72",
+    "type": "series",
+    "title": "الخليفة",
+    "description": "سرحات، الذي أصبح جراحاً ناجحاً متحدياً القدر الذي رسمته له أرض مولده، يتزوج سراً من المرأة التي يحبها \"ملك\" دون علم أسرته. ولكن بعد فترة وجيزة، يضطر للعودة إلى أورفا ويُجبر على الزواج أيضاً من \"يلدز\" بعقد ديني بسبب ثأر دموي بين عائلتين عريقتين في المنطقة. سرحات الذي تحول من جراح إلى آغا، لن تُختبر قوته فحسب، بل حبه أيضاً سيمر بامتحان عظيم. مع قدوم ملك إلى القصر، يضطر سرحات لمواجهة أسرار المرأتين النابعة من عائلتيهما وماضيهما. لأنه في هذا القصر لا أحد بريء. لكل شخص ماضٍ يخفيه، وسر مدفون لديه",
+    "poster": "https://krmizi.onl/wp-content/uploads/2025/09/Halef-Genis.jpg",
+    "backdrop": "",
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "episode": 1,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa1.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 2,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa2.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 3,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa3.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 4,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa4.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 5,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa5.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 6,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa6.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 7,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa7.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 8,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa8.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 9,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa9.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 10,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa10.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 11,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa11.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 12,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa12.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 13,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa13.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 14,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa14.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 15,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa15.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 16,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa16.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 17,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa17.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 18,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa18.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 19,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa19.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 20,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa20.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 21,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa21.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 22,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa22.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 23,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa23.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 24,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa24.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 25,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa25.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 26,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa26.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 27,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa27.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 28,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa28.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 29,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa29.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 30,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa30.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 31,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa31.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 32,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa32.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 33,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa33.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 34,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa34.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 35,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa35.m3u8",
+            "subtitle_url": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "item-1783699515333-c35tg",
     "type": "series",
     "title": "اخي",
