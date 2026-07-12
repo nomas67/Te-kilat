@@ -14,6 +14,21 @@
             "episode": 1,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hubmohtamal1.m3u8",
             "subtitle_url": ""
+          },
+          {
+            "episode": 2,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hubmohtamal2.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 3,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hubmohtamal3.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 4,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hubmohtamal4.m3u8",
+            "subtitle_url": ""
           }
         ]
       }
