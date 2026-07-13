@@ -13,7 +13,17 @@
           {
             "episode": 1,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2024/09/22/DFA2456DCFFAE6EC7D1F41D7297BB53F/DFA2456DCFFAE6EC7D1F41D7297BB53F.m3u8",
-            "subtitle_url": "https://files.catbox.moe/ezfjts.vtt"
+            "subtitle_url": ""
+          },
+          {
+            "episode": 2,
+            "video_url": "https://vmcdn.ciner.com.tr/ht/2024/09/29/333B1D55EC83129290CAC7E3C4CDCC71/333B1D55EC83129290CAC7E3C4CDCC71.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 3,
+            "video_url": "https://vmcdn.ciner.com.tr/ht/2024/10/11/95A828F275C35CB57F3E5FCA11365425/95A828F275C35CB57F3E5FCA11365425.m3u8",
+            "subtitle_url": ""
           }
         ]
       }
