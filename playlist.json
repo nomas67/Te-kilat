@@ -564,6 +564,11 @@
             "episode": 6,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/fi17-6.m3u8",
             "subtitle_url": ""
+          },
+          {
+            "episode": 7,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/fi17-7.m3u8",
+            "subtitle_url": ""
           }
         ]
       }
