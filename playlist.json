@@ -136,6 +136,141 @@
             "subtitle_url": ""
           },
           {
+            "episode": 4,
+            "video_url": "https://vmcdn.ciner.com.tr/ht/2024/10/13/08A4E0265730DC485F851B9556AE3AC1/08A4E0265730DC485F851B9556AE3AC1.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 5,
+            "video_url": "https://vmcdn.ciner.com.tr/ht/2024/10/20/4344990DAD21CD9A699DA43579BD393F/4344990DAD21CD9A699DA43579BD393F.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 6,
+            "video_url": "https://vmcdn.ciner.com.tr/ht/2024/10/27/94F1275292159C9A816CBC0E56FE4394/94F1275292159C9A816CBC0E56FE4394.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 7,
+            "video_url": "https://vmcdn.ciner.com.tr/ht/2024/11/12/F44A08C6C7C78E97857A45E84642D2A6/F44A08C6C7C78E97857A45E84642D2A6.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 8,
+            "video_url": "https://vmcdn.ciner.com.tr/ht/2024/11/10/8F4AAC757205C18E99F85446CE7A5510/8F4AAC757205C18E99F85446CE7A5510.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 9,
+            "video_url": "https://vmcdn.ciner.com.tr/ht/2024/11/17/CCC77B793E0AA5C5EE1FDA9CFE3858D6/CCC77B793E0AA5C5EE1FDA9CFE3858D6.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 10,
+            "video_url": "https://vmcdn.ciner.com.tr/ht/2024/11/24/EB0B2F73D32CD78072B47A8C346395A0/EB0B2F73D32CD78072B47A8C346395A0.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 11,
+            "video_url": "https://vmcdn.ciner.com.tr/ht/2024/12/02/AAD3831F8E1B8493D474D035DACAC63D/AAD3831F8E1B8493D474D035DACAC63D.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 12,
+            "video_url": "https://vmcdn.ciner.com.tr/ht/2024/12/09/714EB5E8486E71A222A57E6705BE14BD/714EB5E8486E71A222A57E6705BE14BD.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 13,
+            "video_url": "https://vmcdn.ciner.com.tr/ht/2024/12/16/BE4CA9F6D40EFCB73B0B3AF0630E2CD0/BE4CA9F6D40EFCB73B0B3AF0630E2CD0.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 14,
+            "video_url": "https://vmcdn.ciner.com.tr/ht/2024/12/23/FCE4DDE9B6C4F946A778D5F1E9C4C424/FCE4DDE9B6C4F946A778D5F1E9C4C424.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 15,
+            "video_url": "https://vmcdn.ciner.com.tr/ht/2024/12/30/B1C820A01BA6B2DBBBE4DE9489367C13/B1C820A01BA6B2DBBBE4DE9489367C13.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 16,
+            "video_url": "https://vmcdn.ciner.com.tr/ht/2025/01/19/3EC65DC470928683A9F4B9A90CCADB28/3EC65DC470928683A9F4B9A90CCADB28.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 17,
+            "video_url": "https://vmcdn.ciner.com.tr/ht/2025/01/26/03C23D9CBFD20B584C44C6DA318827CE/03C23D9CBFD20B584C44C6DA318827CE.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 18,
+            "video_url": "https://vmcdn.ciner.com.tr/ht/2025/02/02/6523DC15BE7B1854E079D8FF7ACB6C39/6523DC15BE7B1854E079D8FF7ACB6C39.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 19,
+            "video_url": "https://vmcdn.ciner.com.tr/ht/2025/02/09/AAAED822BE0016C4D5D5E9F74A055E51/AAAED822BE0016C4D5D5E9F74A055E51.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 20,
+            "video_url": "https://vmcdn.ciner.com.tr/ht/2025/02/16/CA44CE86BB860753DAF2F0F1D0CB7461/CA44CE86BB860753DAF2F0F1D0CB7461.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 21,
+            "video_url": "https://vmcdn.ciner.com.tr/ht/2025/02/23/CA8DF4B8437679276051883EDBC16C95/CA8DF4B8437679276051883EDBC16C95.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 22,
+            "video_url": "https://vmcdn.ciner.com.tr/ht/2025/03/03/406B54E3A8D42B0D5EB95DFEF3FD3C77/406B54E3A8D42B0D5EB95DFEF3FD3C77.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 23,
+            "video_url": "https://vmcdn.ciner.com.tr/ht/2025/03/09/C99A3A5E2BAE3447E9CA52E5B7138325/C99A3A5E2BAE3447E9CA52E5B7138325.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 24,
+            "video_url": "https://vmcdn.ciner.com.tr/ht/2025/03/16/9A703BB8B7BFF90FEE10734BA8A22D2D/9A703BB8B7BFF90FEE10734BA8A22D2D.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 25,
+            "video_url": "https://vmcdn.ciner.com.tr/ht/2025/03/23/99AE45200938F726067D7415E2E370C0/99AE45200938F726067D7415E2E370C0.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 26,
+            "video_url": "https://vmcdn.ciner.com.tr/ht/2025/04/13/9C10033E59A6AEDF8D1F3C708D296114/9C10033E59A6AEDF8D1F3C708D296114.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 27,
+            "video_url": "https://vmcdn.ciner.com.tr/ht/2025/04/20/8114FC717B0DA92BAF637BF6CACEE830/8114FC717B0DA92BAF637BF6CACEE830.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 28,
+            "video_url": "https://vmcdn.ciner.com.tr/ht/2025/04/27/C822C41255D8BB588629A093C807FC94/C822C41255D8BB588629A093C807FC94.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 29,
+            "video_url": "https://vmcdn.ciner.com.tr/ht/2025/05/04/E637962E68D901F52F2A31DCA7F38F28/E637962E68D901F52F2A31DCA7F38F28.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 30,
+            "video_url": "https://vmcdn.ciner.com.tr/ht/2025/05/11/1FC09B5457679F48BDCAAAC685D599FB/1FC09B5457679F48BDCAAAC685D599FB.m3u8",
+            "subtitle_url": ""
+          },
+          {
             "episode": 31,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2025/05/19/8389B056BF6EABE661F692D8E865B00D/8389B056BF6EABE661F692D8E865B00D.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/de31.srt"
