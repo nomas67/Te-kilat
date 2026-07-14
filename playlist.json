@@ -71,6 +71,21 @@
             "subtitle_url": ""
           },
           {
+            "episode": 2,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf2.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 6,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf6.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 8,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf8.m3u8",
+            "subtitle_url": ""
+          },
+          {
             "episode": 10,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf10.m3u8",
             "subtitle_url": ""
