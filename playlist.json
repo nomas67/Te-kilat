@@ -1,5 +1,180 @@
 [
   {
+    "id": "item-1784056374107-dkamd",
+    "type": "series",
+    "title": "ورود و ذنوب",
+    "description": "بدا كل شيء مستقراً وسعيداً في حياة سرحات، رجل الأعمال الناجح الذي بُنيت حياته على الصدق والثقة، إلى أن يكتشف فجأة أن زوجته بيراك تخفي عنه سرّاً كبيراً ظلّ مطموراً لسنوات. وقبل أن يتمكن من مواجهتها، تتعرض بيراك لحادث مأساوي يُدخلها في غيبوبة طويلة، تاركة وراءها ألغازاً تهدد كيان الأسرة بأكمله. بينما يحاول سرحات لملمة شتات حياته الممزقة، يدخل إلى حياته قدر غير متوقَّع: فتاة تُدعى زينب، شابة من حي فقير، صريحة وجريئة. فيجد سرحات نفسه ممزقاً بين وفائه لزوجته الغائبة التي كلما تعمق في ماضيها انكشفت أمامه خيانات وصراعات لم يكن يتصورها، و بين المشاعر الجديدة التي تولد بداخله تجاه زينب",
+    "poster": "https://krmizi.onl/wp-content/uploads/2025/09/Guller-ve-Gunahlar-genis.jpg",
+    "backdrop": "",
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "episode": 1,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub1.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 2,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub2.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 3,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub3.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 4,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub4.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 5,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub5.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 6,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub6.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 7,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub7.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 8,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub8.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 9,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub9.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 10,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub10.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 11,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub11.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 12,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub12.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 13,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub13.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 14,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub14.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 15,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub15.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 16,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub16.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 17,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub17.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 18,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub18.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 19,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub19.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 20,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub20.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 21,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub21.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 22,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub22.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 23,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub23.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 24,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub24.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 25,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub25.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 26,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub26.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 27,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub27.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 28,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub28.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 29,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub29.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 30,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub30.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 31,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub31.m3u8",
+            "subtitle_url": ""
+          },
+          {
+            "episode": 32,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub32.m3u8",
+            "subtitle_url": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "item-1784043040676-r9wmk",
     "type": "series",
     "title": "أنت من أحب",
