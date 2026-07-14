@@ -137,7 +137,7 @@
           },
           {
             "episode": 31,
-            "video_url": "https://puhu.akamaized.net/2025/05/deha_31_bolum-6427ed66/master.m3u8?hdnts=st=1778952992~exp=1778953892~acl=/*~hmac=6e084493d7503ebc56f64f2f8ca4265a79336249b6ecd95eeb994d2968b82c93",
+            "video_url": "https://vmcdn.ciner.com.tr/ht/2025/05/19/8389B056BF6EABE661F692D8E865B00D/8389B056BF6EABE661F692D8E865B00D.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/de31.srt"
           }
         ]
