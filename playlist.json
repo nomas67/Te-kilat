@@ -299,6 +299,71 @@
             "episode": 1,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/82000/81998.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/1.srt"
+          },
+          {
+            "episode": 2,
+            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/81468/81466.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/2.srt"
+          },
+          {
+            "episode": 3,
+            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/81088/81087.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/3.srt"
+          },
+          {
+            "episode": 4,
+            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/80814/80813.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/4.srt"
+          },
+          {
+            "episode": 5,
+            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/80489/80488.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/5.srt"
+          },
+          {
+            "episode": 6,
+            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/80195/80194.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/6.srt"
+          },
+          {
+            "episode": 7,
+            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/79819/79818.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/7.srt"
+          },
+          {
+            "episode": 8,
+            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/79358/79357.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/8.srt"
+          },
+          {
+            "episode": 9,
+            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/78943/78942.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/9.srt"
+          },
+          {
+            "episode": 10,
+            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/78525/78524.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/10.srt"
+          },
+          {
+            "episode": 11,
+            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/78358/78357.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/11.srt"
+          },
+          {
+            "episode": 12,
+            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/78206/78204.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/12.srt"
+          },
+          {
+            "episode": 13,
+            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/77442/77440.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/13.srt"
+          },
+          {
+            "episode": 14,
+            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/76860/76859.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/14.srt"
           }
         ]
       }
