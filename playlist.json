@@ -1,5 +1,25 @@
 [
   {
+    "id": "item-1784116224333-qym5a",
+    "type": "series",
+    "title": "صلاح الدين الايوبي",
+    "description": "قصة صلاح الدين الأيوبي، حاكم مسلم بارز في القرن الثاني عشر.",
+    "poster": "https://c.top4top.io/p_3848ik0wn1.png",
+    "backdrop": "",
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "episode": 1,
+            "video_url": "https://content.hilalplay.com/v2/media/378ff087-db34-4b8a-b1fb-4034f39f191a/master.m3u8",
+            "subtitle_url": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "item-1784059606696-a8pc4",
     "type": "movie",
     "title": "extraction",
