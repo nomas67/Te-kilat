@@ -1,26 +1,5 @@
 [
   {
-    "id": "item-1784113574603-fjf09",
-    "type": "series",
-    "title": "12",
-    "description": "تا هتتا تىتاى",
-    "poster": "https://l.top4top.io/p_3562kwgqp1.png",
-    "backdrop": "",
-    "seasons": [
-      {
-        "season": 1,
-        "episodes": [
-          {
-            "episode": 1,
-            "video_url": "https://cms-tabii-public-video.tabii.com/vod/izleMigrations/8987703/8987703_720p.mp4",
-            "subtitle_url": "",
-            "audio_url": "https://cms-tabii-public-video.tabii.com/vod/izleMigrations/8987703/8987703_aac.mp4"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "item-1784059606696-a8pc4",
     "type": "movie",
     "title": "extraction",
