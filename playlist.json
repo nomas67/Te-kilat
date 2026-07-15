@@ -364,11 +364,6 @@
             "episode": 14,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/76860/76859.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/14.srt"
-          },
-          {
-            "episode": 48,
-            "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/57007/350691.mpd",
-            "subtitle_url": ""
           }
         ]
       }
