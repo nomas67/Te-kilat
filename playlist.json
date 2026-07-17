@@ -1999,6 +1999,11 @@
             "episode": 1,
             "video_url": "https://dls7rxd829s2x.cloudfront.net/data/b/6b27155b.mp4",
             "subtitle_url": ""
+          },
+          {
+            "episode": 2,
+            "video_url": "https://hlszone.com/cdn/hls/5f33c62ce9822df30011c0f026cdd966/master.txt",
+            "subtitle_url": ""
           }
         ]
       }
