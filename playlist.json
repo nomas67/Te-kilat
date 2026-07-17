@@ -246,28 +246,28 @@
           },
           {
             "episode": 2,
-            "video_url": "https://content.hilalplay.com/v2/media/b6405124-edd9-4f45-9159-8592827976d1/master.m3u8",
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/salah2.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/s2.srt",
             "image_url": "",
             "audio_url": ""
           },
           {
             "episode": 3,
-            "video_url": "https://content.hilalplay.com/v2/media/d84e9d8b-c607-460a-975b-74ef268e6d45/master.m3u8",
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/salah3.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/s3.srt",
             "image_url": "",
             "audio_url": ""
           },
           {
             "episode": 4,
-            "video_url": "https://content.hilalplay.com/v2/media/e4b9f39b-ff80-4923-bbe1-2805dcbf8831/master.m3u8",
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/salah4.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/s4.srt",
             "image_url": "",
             "audio_url": ""
           },
           {
             "episode": 5,
-            "video_url": "https://content.hilalplay.com/v2/media/d4932ba7-0f38-431c-aba8-925a45a6111b/master.m3u8",
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/salah5.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/s5.srt",
             "image_url": "",
             "audio_url": ""
