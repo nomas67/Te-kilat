@@ -16,8 +16,8 @@
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash1.srt",
             "image_url": "",
             "audio_url": "",
-            "intro_start": "",
-            "intro_end": ""
+            "intro_start": "00:00:00",
+            "intro_end": "00:01:05"
           },
           {
             "episode": 2,
@@ -25,8 +25,8 @@
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash2.srt",
             "image_url": "",
             "audio_url": "",
-            "intro_start": "",
-            "intro_end": ""
+            "intro_start": "00:00:00",
+            "intro_end": "00:01:04"
           },
           {
             "episode": 3,
