@@ -1,5 +1,70 @@
 [
   {
+    "id": "item-1784283562340-le7b0",
+    "type": "series",
+    "title": "عائشة",
+    "description": "قصة عائشة شاسا، التي تمر بتقلبات صناعة السينما وتكتشف نفسها على طول الطريق.",
+    "poster": "https://d.top4top.io/p_3850hyir51.png",
+    "backdrop": "",
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "episode": 1,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ash1.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash1.srt"
+          },
+          {
+            "episode": 2,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ash2.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash2.srt"
+          },
+          {
+            "episode": 3,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ash3.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash3.srt"
+          },
+          {
+            "episode": 4,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ash4.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash4.srt"
+          },
+          {
+            "episode": 5,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ash5.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash5.srt"
+          },
+          {
+            "episode": 6,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ash6.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash6.srt"
+          },
+          {
+            "episode": 7,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ash7.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash7.srt"
+          },
+          {
+            "episode": 8,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ash8.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash8.srt"
+          },
+          {
+            "episode": 9,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ash9.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash9.srt"
+          },
+          {
+            "episode": 10,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ash10.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash10.srt"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "item-1784281452500-rhthn",
     "type": "series",
     "title": "ارجين",
