@@ -14,6 +14,51 @@
             "episode": 1,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Marnal%C4%B11.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/A.Mafia.Odyssey.S01E01.1080p.Tabii.WEB-DL.H264.AAC.ar.srt"
+          },
+          {
+            "episode": 2,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Marnal%C4%B12.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/A.Mafia.Odyssey.S01E02.1080p.Tabii.WEB-DL.H264.AAC.ar.srt"
+          },
+          {
+            "episode": 3,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Marnal%C4%B13.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/A.Mafia.Odyssey.S01E03.1080p.Tabii.WEB-DL.H264.AAC.ar.srt"
+          },
+          {
+            "episode": 4,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Marnal%C4%B14.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/A.Mafia.Odyssey.S01E04.1080p.Tabii.WEB-DL.H264.AAC.ar.srt"
+          },
+          {
+            "episode": 5,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Marnal%C4%B15.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/A.Mafia.Odyssey.S01E05.1080p.Tabii.WEB-DL.H264.AAC.ar.srt"
+          },
+          {
+            "episode": 6,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Marnal%C4%B16.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/A.Mafia.Odyssey.S01E06.1080p.Tabii.WEB-DL.H264.AAC.ar.srt"
+          },
+          {
+            "episode": 7,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Marnal%C4%B17.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/A.Mafia.Odyssey.S01E07.1080p.Tabii.WEB-DL.H264.AAC.ar.srt"
+          },
+          {
+            "episode": 8,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Marnal%C4%B18.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/A.Mafia.Odyssey.S01E08.1080p.Tabii.WEB-DL.H264.AAC.ar.srt"
+          },
+          {
+            "episode": 9,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Marnal%C4%B19.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/A.Mafia.Odyssey.S01E09.1080p.Tabii.WEB-DL.H264.AAC.ar.srt"
+          },
+          {
+            "episode": 10,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Marnal%C4%B110.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/A.Mafia.Odyssey.S01E010.1080p.Tabii.WEB-DL.H264.AAC.ar.srt"
           }
         ]
       }
