@@ -34,8 +34,8 @@
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash3.srt",
             "image_url": "",
             "audio_url": "",
-            "intro_start": "",
-            "intro_end": ""
+            "intro_start": "00:00:00",
+            "intro_end": "00:01:05"
           },
           {
             "episode": 4,
@@ -43,8 +43,8 @@
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash4.srt",
             "image_url": "",
             "audio_url": "",
-            "intro_start": "",
-            "intro_end": ""
+            "intro_start": "00:00:00",
+            "intro_end": "00:01:05"
           },
           {
             "episode": 5,
@@ -52,8 +52,8 @@
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash5.srt",
             "image_url": "",
             "audio_url": "",
-            "intro_start": "",
-            "intro_end": ""
+            "intro_start": "00:00:00",
+            "intro_end": "00:01:05"
           },
           {
             "episode": 6,
@@ -61,8 +61,8 @@
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash6.srt",
             "image_url": "",
             "audio_url": "",
-            "intro_start": "",
-            "intro_end": ""
+            "intro_start": "00:00:00",
+            "intro_end": "00:01:05"
           },
           {
             "episode": 7,
@@ -70,8 +70,8 @@
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash7.srt",
             "image_url": "",
             "audio_url": "",
-            "intro_start": "",
-            "intro_end": ""
+            "intro_start": "00:00:00",
+            "intro_end": "00:01:05"
           },
           {
             "episode": 8,
@@ -79,8 +79,8 @@
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash8.srt",
             "image_url": "",
             "audio_url": "",
-            "intro_start": "",
-            "intro_end": ""
+            "intro_start": "00:00:00",
+            "intro_end": "00:01:05"
           },
           {
             "episode": 9,
@@ -97,8 +97,8 @@
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash10.srt",
             "image_url": "",
             "audio_url": "",
-            "intro_start": "",
-            "intro_end": ""
+            "intro_start": "00:00:00",
+            "intro_end": "00:01:05"
           }
         ]
       }
