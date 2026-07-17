@@ -15,70 +15,90 @@
             "video_url": "https://hlszone.com/cdn/hls/5f33c62ce9822df30011c0f026cdd966/master.txt",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash1.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 2,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ash2.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash2.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 3,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ash3.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash3.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 4,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ash4.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash4.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 5,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ash5.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash5.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 6,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ash6.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash6.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 7,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ash7.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash7.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 8,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ash8.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash8.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 9,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ash9.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash9.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 10,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ash10.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash10.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           }
         ]
       }
@@ -100,42 +120,54 @@
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Arjen1.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/Arjen1.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 2,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Arjen2.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/Arjen2.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 3,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Arjen3.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/Arjen3.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 4,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Arjen4.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/Arjen4.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 5,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Arjen5.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/Arjen5.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 6,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Arjen6.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/Arjen6.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           }
         ]
       }
@@ -157,70 +189,90 @@
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Marnal%C4%B11.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/A.Mafia.Odyssey.S01E01.1080p.Tabii.WEB-DL.H264.AAC.ar.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 2,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Marnal%C4%B12.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/A.Mafia.Odyssey.S01E02.1080p.Tabii.WEB-DL.H264.AAC.ar.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 3,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Marnal%C4%B13.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/A.Mafia.Odyssey.S01E03.1080p.Tabii.WEB-DL.H264.AAC.ar.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 4,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Marnal%C4%B14.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/A.Mafia.Odyssey.S01E04.1080p.Tabii.WEB-DL.H264.AAC.ar.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 5,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Marnal%C4%B15.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/A.Mafia.Odyssey.S01E05.1080p.Tabii.WEB-DL.H264.AAC.ar.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 6,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Marnal%C4%B16.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/A.Mafia.Odyssey.S01E06.1080p.Tabii.WEB-DL.H264.AAC.ar.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 7,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Marnal%C4%B17.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/A.Mafia.Odyssey.S01E07.1080p.Tabii.WEB-DL.H264.AAC.ar.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 8,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Marnal%C4%B18.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/A.Mafia.Odyssey.S01E08.1080p.Tabii.WEB-DL.H264.AAC.ar.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 9,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Marnal%C4%B19.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/A.Mafia.Odyssey.S01E09.1080p.Tabii.WEB-DL.H264.AAC.ar.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 10,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Marnal%C4%B110.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/A.Mafia.Odyssey.S01E010.1080p.Tabii.WEB-DL.H264.AAC.ar.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           }
         ]
       }
@@ -242,161 +294,207 @@
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/salah1.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/%5BSubtitleTools.com%5D%20s1.srt",
             "image_url": "https://c.top4top.io/p_3850qrtks1.jpeg",
-            "audio_url": "https://cms-tabii-public-video.tabii.com/vod/1efa0d52-6580-6640-8491-e22868c4e4f7/V0/packages/2541827607000563942/video_0.mp4"
+            "audio_url": "https://cms-tabii-public-video.tabii.com/vod/1efa0d52-6580-6640-8491-e22868c4e4f7/V0/packages/2541827607000563942/video_0.mp4",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 2,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/salah2.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/s2.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 3,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/salah3.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/s3.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 4,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/salah4.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/s4.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 5,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/salah5.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/s5.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 6,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/255466/255465.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/s6.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 7,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/291620/291619.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/s7.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 8,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/294357/294356.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/s8.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 9,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/301531/301530.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/s9.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 10,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/304469/304467.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/s10.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 11,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/307577/307576.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/s11.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 12,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/312308/312307.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/s12.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 13,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/316206/316204.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/s13.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 14,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/320324/320323.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/s14.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 15,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/324892/324889.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/s15.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 16,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/329505/329504.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/s16.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 17,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/333544/333542.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/s17.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 18,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/337187/337185.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/s18.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 19,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/339825/339824.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/s19.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 20,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/342196/342193.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/s20.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 21,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/345989/345987.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/s21.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 22,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/364569/364568.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/s22.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 23,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/366284/366283.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/s23.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           }
         ]
       }
@@ -428,224 +526,288 @@
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub1.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 2,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub2.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 3,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub3.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 4,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub4.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 5,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub5.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 6,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub6.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 7,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub7.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 8,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub8.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 9,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub9.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 10,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub10.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 11,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub11.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 12,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub12.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 13,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub13.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 14,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub14.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 15,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub15.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 16,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub16.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 17,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub17.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 18,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub18.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 19,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub19.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 20,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub20.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 21,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub21.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 22,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub22.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 23,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub23.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 24,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub24.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 25,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub25.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 26,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub26.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 27,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub27.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 28,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub28.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 29,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub29.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 30,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub30.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 31,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub31.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 32,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/wardwaznub32.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           }
         ]
       }
@@ -667,105 +829,135 @@
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/antmnahbabt1.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 2,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/antmnahub2.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 3,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/antmnahub3.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 4,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/antmnahub4.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 5,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/antmnahub5.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 6,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/antmnahub6.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 7,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/antmnahub7.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 8,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/antmnahub8.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 9,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/antmnahub9.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 10,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/antmnahub10.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 11,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/antmnahub11.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 12,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/antmnahub12.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 13,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/antmnahub13.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 14,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/antmnahub14.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 15,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/antmnahub15.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           }
         ]
       }
@@ -787,336 +979,432 @@
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/82000/81998.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/1.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 2,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/81468/81466.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/2.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 3,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/81088/81087.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/3.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 4,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/80814/80813.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/4.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 5,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/80489/80488.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/5.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 6,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/80195/80194.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/6.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 7,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/79819/79818.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/7.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 8,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/79358/79357.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/8.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 9,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/78943/78942.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/9.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 10,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/78525/78524.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/10.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 11,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/78358/78357.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/11.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 12,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/78206/78204.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/12.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 13,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/77442/77440.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/13.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 14,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/76860/76859.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/14.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 15,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/70698/70697.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/15.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 16,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/70698/70697.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/16.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 17,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/69524/69523.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/17.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 18,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/68759/68757.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/18.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 19,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/68379/68378.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/19.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 20,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/67825/67824.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/20.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 21,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/67253/67252.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/21.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 22,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/66824/66823.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/22.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 23,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/66270/66269.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/23.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 24,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/65562/65561.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/24.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 25,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/65014/65012.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/25.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 26,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/64558/64557.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/26.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 27,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/64371/64369.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/27.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 28,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/64139/64138.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/28.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 29,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/63460/63459.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/29.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 30,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/63172/63171.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/30.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 31,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/62898/62897.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/31.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 32,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/62637/62636.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/32.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 33,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/62403/62402.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/33.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 34,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/61948/61947.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/34.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 35,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/61546/61545.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/35.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 36,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/60943/60942.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/36.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 37,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/60616/60613.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/37.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 38,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/60350/60349.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/38.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 39,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/60050/60049.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/39.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 40,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/59616/59614.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/40.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 41,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/59268/59267.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/41.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 42,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/58756/58755.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/42.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 43,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/58525/58524.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/43.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 44,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/58237/58236.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/44.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 45,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/57660/57659.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/45.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 46,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/57418/57417.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/46.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 47,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/57391/57389.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/47.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 48,
             "video_url": "https://eu1.tabii.com/apigateway/pbr/v1/media/57007/57005.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/48.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           }
         ]
       }
@@ -1138,217 +1426,279 @@
             "video_url": "https://vmcdn.ciner.com.tr/ht/2024/09/22/DFA2456DCFFAE6EC7D1F41D7297BB53F/DFA2456DCFFAE6EC7D1F41D7297BB53F.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 2,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2024/09/29/333B1D55EC83129290CAC7E3C4CDCC71/333B1D55EC83129290CAC7E3C4CDCC71.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 3,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2024/10/11/95A828F275C35CB57F3E5FCA11365425/95A828F275C35CB57F3E5FCA11365425.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 4,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2024/10/13/08A4E0265730DC485F851B9556AE3AC1/08A4E0265730DC485F851B9556AE3AC1.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 5,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2024/10/20/4344990DAD21CD9A699DA43579BD393F/4344990DAD21CD9A699DA43579BD393F.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 6,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2024/10/27/94F1275292159C9A816CBC0E56FE4394/94F1275292159C9A816CBC0E56FE4394.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 7,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2024/11/12/F44A08C6C7C78E97857A45E84642D2A6/F44A08C6C7C78E97857A45E84642D2A6.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 8,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2024/11/10/8F4AAC757205C18E99F85446CE7A5510/8F4AAC757205C18E99F85446CE7A5510.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 9,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2024/11/17/CCC77B793E0AA5C5EE1FDA9CFE3858D6/CCC77B793E0AA5C5EE1FDA9CFE3858D6.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 10,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2024/11/24/EB0B2F73D32CD78072B47A8C346395A0/EB0B2F73D32CD78072B47A8C346395A0.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 11,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2024/12/02/AAD3831F8E1B8493D474D035DACAC63D/AAD3831F8E1B8493D474D035DACAC63D.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 12,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2024/12/09/714EB5E8486E71A222A57E6705BE14BD/714EB5E8486E71A222A57E6705BE14BD.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 13,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2024/12/16/BE4CA9F6D40EFCB73B0B3AF0630E2CD0/BE4CA9F6D40EFCB73B0B3AF0630E2CD0.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 14,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2024/12/23/FCE4DDE9B6C4F946A778D5F1E9C4C424/FCE4DDE9B6C4F946A778D5F1E9C4C424.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 15,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2024/12/30/B1C820A01BA6B2DBBBE4DE9489367C13/B1C820A01BA6B2DBBBE4DE9489367C13.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 16,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2025/01/19/3EC65DC470928683A9F4B9A90CCADB28/3EC65DC470928683A9F4B9A90CCADB28.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 17,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2025/01/26/03C23D9CBFD20B584C44C6DA318827CE/03C23D9CBFD20B584C44C6DA318827CE.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 18,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2025/02/02/6523DC15BE7B1854E079D8FF7ACB6C39/6523DC15BE7B1854E079D8FF7ACB6C39.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 19,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2025/02/09/AAAED822BE0016C4D5D5E9F74A055E51/AAAED822BE0016C4D5D5E9F74A055E51.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 20,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2025/02/16/CA44CE86BB860753DAF2F0F1D0CB7461/CA44CE86BB860753DAF2F0F1D0CB7461.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 21,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2025/02/23/CA8DF4B8437679276051883EDBC16C95/CA8DF4B8437679276051883EDBC16C95.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 22,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2025/03/03/406B54E3A8D42B0D5EB95DFEF3FD3C77/406B54E3A8D42B0D5EB95DFEF3FD3C77.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 23,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2025/03/09/C99A3A5E2BAE3447E9CA52E5B7138325/C99A3A5E2BAE3447E9CA52E5B7138325.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 24,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2025/03/16/9A703BB8B7BFF90FEE10734BA8A22D2D/9A703BB8B7BFF90FEE10734BA8A22D2D.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 25,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2025/03/23/99AE45200938F726067D7415E2E370C0/99AE45200938F726067D7415E2E370C0.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 26,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2025/04/13/9C10033E59A6AEDF8D1F3C708D296114/9C10033E59A6AEDF8D1F3C708D296114.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 27,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2025/04/20/8114FC717B0DA92BAF637BF6CACEE830/8114FC717B0DA92BAF637BF6CACEE830.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 28,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2025/04/27/C822C41255D8BB588629A093C807FC94/C822C41255D8BB588629A093C807FC94.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 29,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2025/05/04/E637962E68D901F52F2A31DCA7F38F28/E637962E68D901F52F2A31DCA7F38F28.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 30,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2025/05/11/1FC09B5457679F48BDCAAAC685D599FB/1FC09B5457679F48BDCAAAC685D599FB.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 31,
             "video_url": "https://vmcdn.ciner.com.tr/ht/2025/05/19/8389B056BF6EABE661F692D8E865B00D/8389B056BF6EABE661F692D8E865B00D.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/de31.srt",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           }
         ]
       }
@@ -1370,280 +1720,360 @@
             "video_url": "https://raw.githubusercontent.com/nomas67/my-hls-video/refs/heads/main/hlmashraf1.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 2,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf2.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 6,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf6.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 8,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf8.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 10,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf10.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 13,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf13.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 14,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf14.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 15,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf15.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 16,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf16.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 17,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf17.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 18,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf18.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 19,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf19.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 20,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf20.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 21,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf21.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 22,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf22.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 23,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf23.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 24,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf24.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 25,
             "video_url": "https://github.com/nomashttps://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf25.m3u867/my-hls-video/raw/refs/heads/main/hlmashraf25.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 26,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf26.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 27,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf27.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 28,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf28.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 29,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf29.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 30,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf30.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 31,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf31.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 32,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf32.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 33,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf33.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 34,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf34.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 35,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf35.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 36,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf36.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 37,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf37.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 38,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf38.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 39,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf39.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 40,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf40.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 41,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf41.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 42,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf42.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 43,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf43.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 44,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf44.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 45,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf45.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 46,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf46.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 47,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf47.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           }
         ]
       }
@@ -1665,35 +2095,45 @@
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/qanwn1.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 2,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/qanwn2.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 3,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/qanwn3.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 4,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/qanwn4.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 5,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/qanwn5.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           }
         ]
       }
@@ -1715,28 +2155,36 @@
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hubmohtamal1.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 2,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hubmohtamal2.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 3,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hubmohtamal3.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 4,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hubmohtamal4.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           }
         ]
       }
@@ -1758,14 +2206,18 @@
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ashrah1.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 26,
             "video_url": "https://atv-vod.ercdn.net/video/dizi/sen-anlat-karadeniz/026_kauc/8fc8c077-217a-4079-9eea-8c6b0b6142c6.hb.smil/hlssubplaylist-ovbnqq8h_oacnSN7.m3u8?st=h-g0kAEDh0_9jduGo-S3rg&e=1783831980",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/%D8%A7%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%8A%D9%87%D8%A7%20%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%20%D8%A7%D9%84%D8%A7%D8%B3%D9%88%D8%AF%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%2026.ass",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           }
         ]
       }
@@ -1787,245 +2239,315 @@
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa1.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 2,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa2.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 3,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa3.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 4,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa4.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 5,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa5.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 6,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa6.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 7,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa7.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 8,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa8.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 9,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa9.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 10,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa10.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 11,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa11.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 12,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa12.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 13,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa13.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 14,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa14.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 15,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa15.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 16,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa16.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 17,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa17.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 18,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa18.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 19,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa19.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 20,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa20.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 21,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa21.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 22,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa22.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 23,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa23.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 24,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa24.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 25,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa25.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 26,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa26.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 27,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa27.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 28,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa28.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 29,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa29.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 30,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa30.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 31,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa31.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 32,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa32.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 33,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa33.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 34,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa34.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 35,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alkalifa35.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           }
         ]
       }
@@ -2047,126 +2569,162 @@
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake1.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 2,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake2.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 3,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake3.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 4,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake4.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 5,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake5.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 6,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake6.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 7,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake7.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 8,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake8.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 9,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake9.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 10,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake10.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 11,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake11.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 12,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake12.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 13,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake13.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 14,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake14.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 15,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake15.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 16,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake16.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 17,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake17.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 18,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ake18.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           }
         ]
       }
@@ -2188,112 +2746,144 @@
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B1.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 2,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B12.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 3,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B13.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 4,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B14.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 5,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B15.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 6,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B16.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 7,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B17.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 8,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B18.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 9,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B19.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 10,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B110.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 11,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B111.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 12,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B112.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 13,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B113.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 14,
             "video_url": "https://dls7rxd829s2x.cloudfront.net/data/9/1008bfb9.mp4",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 15,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B115.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 16,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/yeralt%C4%B116.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           }
         ]
       }
@@ -2315,28 +2905,36 @@
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/rasnalaaqb1.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 2,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/rasnalaaqb2.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 3,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/rasnalaaqb3.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 4,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/rasnalaaqb4.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           }
         ]
       }
@@ -2358,49 +2956,63 @@
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/fi17.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 2,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/fi17-2.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 3,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/fi17-3.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 4,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/fi17-4.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 5,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/fi17-5.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 6,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/fi17-6.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 7,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/fi17-7.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           }
         ]
       }
@@ -2422,7 +3034,9 @@
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hud1.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           }
         ]
       }
@@ -2444,217 +3058,279 @@
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 2,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz2.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 3,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz3.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 4,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz4.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 5,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz5.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 6,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz6.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 7,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz7.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 8,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz8.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 9,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz9.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 10,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz10.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 11,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz11.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 12,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz12.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 13,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz13.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 14,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz14.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 15,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz15.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 16,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz16.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 17,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz17.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 18,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz18.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 19,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz19.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 20,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz20.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 21,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz21.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 22,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz22.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 23,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz23.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 24,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz24.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 25,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz25.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 26,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz26.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 27,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz27.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 28,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz28.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 29,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz29.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 30,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz30.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           },
           {
             "episode": 31,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/baharsiafiz31.m3u8",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           }
         ]
       }
@@ -2676,7 +3352,9 @@
             "video_url": "https://dls7rxd829s2x.cloudfront.net/data/b/6b27155b.mp4",
             "subtitle_url": "",
             "image_url": "",
-            "audio_url": ""
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": ""
           }
         ]
       }
