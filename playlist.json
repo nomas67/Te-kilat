@@ -1,5 +1,50 @@
 [
   {
+    "id": "item-1784281452500-rhthn",
+    "type": "series",
+    "title": "ارجين",
+    "description": "عاهد أرجين نفسه على حماية عائلة صلاح الدين التي ربّتهُ، لكن خيارًا مأساويًّا حوّلهُ إلى قاتل ليواجه الوحش الذي أصبح عليه.",
+    "poster": "https://g.top4top.io/p_38506kcsf1.png",
+    "backdrop": "",
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "episode": 1,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Arjen1.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/Arjen1.srt"
+          },
+          {
+            "episode": 2,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Arjen2.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/Arjen2.srt"
+          },
+          {
+            "episode": 3,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Arjen3.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/Arjen3.srt"
+          },
+          {
+            "episode": 4,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Arjen4.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/Arjen4.srt"
+          },
+          {
+            "episode": 5,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Arjen5.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/Arjen5.srt"
+          },
+          {
+            "episode": 6,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Arjen6.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/Arjen6.srt"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "item-1784248030093-yzsww",
     "type": "series",
     "title": "انتقام المافيا",
