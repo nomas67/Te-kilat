@@ -1596,8 +1596,8 @@
             "subtitle_url": "",
             "image_url": "",
             "audio_url": "",
-            "intro_start": "",
-            "intro_end": "",
+            "intro_start": "00:00:00",
+            "intro_end": "00:01:40",
             "duration": ""
           },
           {
@@ -1606,8 +1606,8 @@
             "subtitle_url": "",
             "image_url": "",
             "audio_url": "",
-            "intro_start": "",
-            "intro_end": "",
+            "intro_start": "00:00:00",
+            "intro_end": "00:01:40",
             "duration": ""
           },
           {
@@ -1616,8 +1616,8 @@
             "subtitle_url": "",
             "image_url": "",
             "audio_url": "",
-            "intro_start": "",
-            "intro_end": "",
+            "intro_start": "00:00:00",
+            "intro_end": "00:01:40",
             "duration": ""
           },
           {
@@ -1626,8 +1626,8 @@
             "subtitle_url": "",
             "image_url": "",
             "audio_url": "",
-            "intro_start": "",
-            "intro_end": "",
+            "intro_start": "00:00:00",
+            "intro_end": "00:01:40",
             "duration": ""
           },
           {
@@ -1636,8 +1636,8 @@
             "subtitle_url": "",
             "image_url": "",
             "audio_url": "",
-            "intro_start": "",
-            "intro_end": "",
+            "intro_start": "00:00:00",
+            "intro_end": "00:01:40",
             "duration": ""
           },
           {
@@ -1646,8 +1646,8 @@
             "subtitle_url": "",
             "image_url": "",
             "audio_url": "",
-            "intro_start": "",
-            "intro_end": "",
+            "intro_start": "00:00:00",
+            "intro_end": "00:01:40",
             "duration": ""
           },
           {
@@ -1656,8 +1656,8 @@
             "subtitle_url": "",
             "image_url": "",
             "audio_url": "",
-            "intro_start": "",
-            "intro_end": "",
+            "intro_start": "00:00:00",
+            "intro_end": "00:01:40",
             "duration": ""
           },
           {
@@ -1666,8 +1666,8 @@
             "subtitle_url": "",
             "image_url": "",
             "audio_url": "",
-            "intro_start": "",
-            "intro_end": "",
+            "intro_start": "00:00:00",
+            "intro_end": "00:01:40",
             "duration": ""
           },
           {
@@ -1676,8 +1676,8 @@
             "subtitle_url": "",
             "image_url": "",
             "audio_url": "",
-            "intro_start": "",
-            "intro_end": "",
+            "intro_start": "00:00:00",
+            "intro_end": "00:01:40",
             "duration": ""
           },
           {
@@ -1686,8 +1686,8 @@
             "subtitle_url": "",
             "image_url": "",
             "audio_url": "",
-            "intro_start": "",
-            "intro_end": "",
+            "intro_start": "00:00:00",
+            "intro_end": "00:01:40",
             "duration": ""
           },
           {
@@ -1896,8 +1896,8 @@
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/de31.srt",
             "image_url": "",
             "audio_url": "",
-            "intro_start": "",
-            "intro_end": "",
+            "intro_start": "00:00:00",
+            "intro_end": "00:01:40",
             "duration": ""
           }
         ]
