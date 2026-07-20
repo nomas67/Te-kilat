@@ -19,6 +19,16 @@
             "intro_start": "00:04:33",
             "intro_end": "00:05:30",
             "duration": "00:41:49"
+          },
+          {
+            "episode": 2,
+            "video_url": "https://cms-tabii-public-video.tabii.com/vod/1f181cb1-c617-62ee-8017-0b1f1a7c5832/V0/packages/7083096940237105552/video_0.mp4",
+            "subtitle_url": "",
+            "image_url": "",
+            "audio_url": "https://cms-tabii-public-video.tabii.com/vod/1f181cb1-c617-62ee-8017-0b1f1a7c5832/V0/packages/7083096940237105552/audio_5.mp4",
+            "intro_start": "",
+            "intro_end": "",
+            "duration": ""
           }
         ]
       }
