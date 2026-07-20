@@ -3304,8 +3304,8 @@
     "type": "series",
     "title": "في السابعة عشر",
     "description": "نشأ أراس بين جدران دور الأيتام، وحيداً مع أسئلة لا إجابة لها. لكن شيئاً ما دفعه للبحث في ماضيه المجهول، فكانت بودروم بشمسها وبحرها الأزرق مسرحاً لمواجهته مع حقيقة طالما أخفتها السنوات.",
-    "poster": "https://krmizi.onl/wp-content/uploads/2026/05/Daha-17-genis-v2.jpg",
-    "backdrop": "",
+    "poster": "https://h.top4top.io/p_3853sxbtv1.jpg",
+    "backdrop": "https://krmizi.onl/wp-content/uploads/2026/05/Daha-17-genis-v2.jpg",
     "seasons": [
       {
         "season": 1,
@@ -3379,6 +3379,16 @@
             "intro_start": "",
             "intro_end": "",
             "duration": ""
+          },
+          {
+            "episode": 8,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/fi17-8.m3u8",
+            "subtitle_url": "",
+            "image_url": "https://c.top4top.io/p_3853ib56g1.jpg",
+            "audio_url": "",
+            "intro_start": "00:00:00",
+            "intro_end": "00:00:20",
+            "duration": "02:16:10"
           }
         ]
       }
