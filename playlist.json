@@ -3304,6 +3304,26 @@
             "intro_start": "",
             "intro_end": "",
             "duration": ""
+          },
+          {
+            "episode": 5,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/rasnalaaqb5.m3u8",
+            "subtitle_url": "",
+            "image_url": "",
+            "audio_url": "",
+            "intro_start": "00:00:00",
+            "intro_end": "00:00:12",
+            "duration": "02:18:24"
+          },
+          {
+            "episode": 6,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/rasnalaaqb6.m3u8",
+            "subtitle_url": "",
+            "image_url": "",
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": "",
+            "duration": "02:23:51"
           }
         ]
       }
