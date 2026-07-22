@@ -1,5 +1,30 @@
 [
   {
+    "id": "item-1784763289181-13ix7",
+    "type": "series",
+    "title": "الشتاء الاسود",
+    "description": "في أعقاب زلزال تركيا الكارثي عام 1939، يتحد المدعي العام عزت أكشال ومجموعة من السجناء لإنقاذ حياة المدفونين تحت الأنقاض.",
+    "poster": "https://d.top4top.io/p_38554on891.jpg",
+    "backdrop": "https://k.top4top.io/p_38550zs6v1.jpeg",
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "episode": 1,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/shta1.m3u8",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/shta1.srt",
+            "image_url": "https://k.top4top.io/p_3855d6mqr1.png",
+            "audio_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/shtaswt1.m3u8",
+            "intro_start": "",
+            "intro_end": "",
+            "duration": "00:53:35"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "item-1784754019052-7i882",
     "type": "series",
     "title": "طيور النار",
