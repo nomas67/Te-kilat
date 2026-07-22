@@ -19,6 +19,16 @@
             "intro_start": "00:00:00",
             "intro_end": "00:01:30",
             "duration": "02:18:07"
+          },
+          {
+            "episode": 2,
+            "video_url": "https://atv-vod.ercdn.net/video/dizi/ates-kuslari/2_zxpl/226a3c7f-0da3-461a-9ef2-674947c065d5.hb.smil/hlssubplaylist-ovbnqq8h_oacnyO7.m3u8?st=Bx3EjSn6Ii3mB7TNdsYZxQ&e=1784806306",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/atash2.srt",
+            "image_url": "https://h.top4top.io/p_3855cm1pi1.jpg",
+            "audio_url": "",
+            "intro_start": "00:00:00",
+            "intro_end": "00:01:30",
+            "duration": "02:14:47"
           }
         ]
       }
