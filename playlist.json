@@ -103,12 +103,22 @@
           {
             "episode": 4,
             "video_url": "https://atv-vod.ercdn.net/video/dizi/ates-kuslari/4_uax2/7b760cde-8f67-4ad2-b95f-1db2297b1e99.hb.smil/hlssubplaylist-ovbnqq8h_oacnAM7.m3u8?st=yMZi76Qf_uZzizRlel2I6g&e=1784837331",
-            "subtitle_url": "",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/atash4.srt",
             "image_url": "https://h.top4top.io/p_3856yjeev1.jpg",
             "audio_url": "",
             "intro_start": "00:00:00",
             "intro_end": "00:01:30",
             "duration": "2:26:41"
+          },
+          {
+            "episode": 5,
+            "video_url": "https://atv-vod.ercdn.net/video/dizi/ates-kuslari/5_ips9/6006fd00-7ed2-4551-8b69-53a3bb93d8e5.hb.smil/hlssubplaylist-ovbnqq8h_oacnsT7.m3u8?st=8rnZk_6kbdlM-sc6wBFVug&e=1784953027",
+            "subtitle_url": "",
+            "image_url": "https://e.top4top.io/p_3857wie3c1.jpg",
+            "audio_url": "",
+            "intro_start": "00:00:00",
+            "intro_end": "00:01:30",
+            "duration": "02:16:20"
           }
         ]
       }
