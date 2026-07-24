@@ -1,30 +1,5 @@
 [
   {
-    "id": "item-1784899002727-ipmkq",
-    "type": "series",
-    "title": "ليلة القرن",
-    "description": "التطورات الحرجة التي حدثت خلال محاولة الانقلاب في 15 يوليو 2016 في تركيا والصراع الذي استمر طوال تلك الليلة.",
-    "poster": "https://a.top4top.io/p_38536ks7d1.png",
-    "backdrop": "https://j.top4top.io/p_3853tyhtu1.png",
-    "seasons": [
-      {
-        "season": 1,
-        "episodes": [
-          {
-            "episode": 1,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hlmashraf1.m3u8",
-            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%201%20ar.srt",
-            "image_url": "https://l.top4top.io/p_3853aqqtd1.jpeg",
-            "audio_url": "",
-            "intro_start": "00:04:33",
-            "intro_end": "00:05:30",
-            "duration": "00:41:49"
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": "item-1784763289181-13ix7",
     "type": "series",
     "title": "الشتاء الاسود",
