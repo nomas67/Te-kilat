@@ -102,7 +102,7 @@
         "episodes": [
           {
             "episode": 1,
-            "video_url": "https://cms-tabii-public-video.tabii.com/vod/1f1841fd-7f2a-67e6-8017-f6652c41294b/V0/packages/6810216321344986373/video_0.mp4",
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/lilatalqrn1.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%201%20ar.srt",
             "image_url": "https://l.top4top.io/p_3853aqqtd1.jpeg",
             "audio_url": "",
@@ -119,26 +119,6 @@
             "intro_start": "00:03:10",
             "intro_end": "00:04:09",
             "duration": "00:54:15"
-          },
-          {
-            "episode": 3,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/lilatalqrn1.m3u8",
-            "subtitle_url": "",
-            "image_url": "",
-            "audio_url": "",
-            "intro_start": "",
-            "intro_end": "",
-            "duration": ""
-          },
-          {
-            "episode": 4,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/lilatalqrn1.m3u8",
-            "subtitle_url": "",
-            "image_url": "",
-            "audio_url": "",
-            "intro_start": "",
-            "intro_end": "",
-            "duration": ""
           }
         ]
       }
