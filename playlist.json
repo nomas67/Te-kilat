@@ -2526,9 +2526,9 @@
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/eshrah1.srt",
             "image_url": "",
             "audio_url": "",
-            "intro_start": "",
-            "intro_end": "",
-            "duration": ""
+            "intro_start": "00:00:00",
+            "intro_end": "00:01:16",
+            "duration": "02:17:11"
           },
           {
             "episode": 26,
