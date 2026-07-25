@@ -189,6 +189,16 @@
             "intro_start": "00:00:00",
             "intro_end": "00:01:30",
             "duration": "02:16:20"
+          },
+          {
+            "episode": 6,
+            "video_url": "https://atv-vod.ercdn.net/video/dizi/ates-kuslari/6_lo9v/79b144fb-701d-4d27-9bd6-c35a1960cc36.hb.smil/hlssubplaylist-ovbnqq8h_oacnuQ7.m3u8?st=sj3Mvn3sgvbrmy6ujwCFzg&e=1785025672",
+            "subtitle_url": "",
+            "image_url": "https://c.top4top.io/p_3858am91h1.jpg",
+            "audio_url": "",
+            "intro_start": "00:00:00",
+            "intro_end": "00:01:30",
+            "duration": "02:25:57"
           }
         ]
       }
