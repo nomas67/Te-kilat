@@ -354,7 +354,98 @@
       },
       {
         "season": 2,
-        "episodes": []
+        "episodes": [
+          {
+            "episode": 1,
+            "video_url": "https://atv-vod.ercdn.net/video/dizi/ates-kuslari/22_eogl/ad954f17-9dbd-4c2f-9ad6-e85804601875.hb.smil/hlssubplaylist-ovbnqq8h_oacnuU7.m3u8?st=CmUsu08WCZpkMMmGgWPYJQ&e=1785040766",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/atash22.srt",
+            "image_url": "",
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": "",
+            "duration": ""
+          },
+          {
+            "episode": 2,
+            "video_url": "https://atv-vod.ercdn.net/video/dizi/ates-kuslari/23_pw7m/05cb8a22-3b4e-4324-9801-40c965e6fb4b.hb.smil/hlssubplaylist-ovbnqq8h_oacncP7.m3u8?st=By75Dx_88HjzUPUlnnVcAA&e=1785040834",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/atash23.srt",
+            "image_url": "",
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": "",
+            "duration": ""
+          },
+          {
+            "episode": 3,
+            "video_url": "https://atv-vod.ercdn.net/video/dizi/ates-kuslari/24_s3jl/88628efb-4c46-43b3-9698-3138770c08fb.hb.smil/hlssubplaylist-ovbnqq8h_oacnqW7.m3u8?st=A3vABQC-st2NRuL3wqHNNQ&e=1785040860",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/atash24.srt",
+            "image_url": "",
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": "",
+            "duration": ""
+          },
+          {
+            "episode": 4,
+            "video_url": "https://atv-vod.ercdn.net/video/dizi/ates-kuslari/25_cgq0/9feac993-c89c-4f9c-818e-e2d2ea6717fd.hb.smil/hlssubplaylist-ovbnqq8h_oacncP7.m3u8?st=4KNzQ46rxBo49BOBiSKw5w&e=1785040884",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/atash25.srt",
+            "image_url": "",
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": "",
+            "duration": ""
+          },
+          {
+            "episode": 5,
+            "video_url": "https://atv-vod.ercdn.net/video/dizi/ates-kuslari/26_bsex/d48052e6-0273-4106-a841-a518a1b2c394.hb.smil/hlssubplaylist-ovbnqq8h_oacnkT7.m3u8?st=4eW5cHd7zUtVdjVyS9egQQ&e=1785040915",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/atash26.srt",
+            "image_url": "",
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": "",
+            "duration": ""
+          },
+          {
+            "episode": 6,
+            "video_url": "https://atv-vod.ercdn.net/video/dizi/ates-kuslari/27_hou9/06310819-3e9c-46a3-9cb2-6b44ae97743b.hb.smil/hlssubplaylist-ovbnqq8h_oacniS7.m3u8?st=wVwGSRAr3k2X0--vFLzhgw&e=1785040959",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/atash27.srt",
+            "image_url": "",
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": "",
+            "duration": ""
+          },
+          {
+            "episode": 7,
+            "video_url": "https://atv-vod.ercdn.net/video/dizi/ates-kuslari/28_msfa/c3af49cc-fcf3-4fd5-9834-5ddfa288e37e.hb.smil/hlssubplaylist-ovbnqq8h_oacncT7.m3u8?st=j6tceBc8hms5kdFf-i7aJA&e=1785041002",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/atash28.srt",
+            "image_url": "",
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": "",
+            "duration": ""
+          },
+          {
+            "episode": 8,
+            "video_url": "https://atv-vod.ercdn.net/video/dizi/ates-kuslari/29_cqp6/72a4a562-9dc4-46ea-baec-69fc8b851dca.hb.smil/hlssubplaylist-ovbnqq8h_oacnGT7.m3u8?st=UMUQfo0d2gfJnLEeRjfqoA&e=1785041036",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/atash29.srt",
+            "image_url": "",
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": "",
+            "duration": ""
+          },
+          {
+            "episode": 9,
+            "video_url": "https://atv-vod.ercdn.net/video/dizi/ates-kuslari/30_2rfr/28da1f5c-511a-4f79-b02d-80b635f60d69.hb.smil/hlssubplaylist-ovbnqq8h_oacnWT7.m3u8?st=vMwV4QSkC7mFL4wMLJyJKw&e=1785041065",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/atash30.srt",
+            "image_url": "",
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": "",
+            "duration": ""
+          }
+        ]
       }
     ]
   },
