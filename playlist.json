@@ -1,5 +1,30 @@
 [
   {
+    "id": "item-1784944775807-2fk58",
+    "type": "series",
+    "title": "المتدرب",
+    "description": "بعد عودته من مهمة حماية لصالح شركة للألماس في أنغولا، يقوم قاتل مأجور بتنفيذ مهام تطلبها منه الشركة التي يعمل فيها والتي تدّعي تحقيق العدالة على طريقتها.",
+    "poster": "https://c.top4top.io/p_3857aaa961.png",
+    "backdrop": "https://i.top4top.io/p_3857zf2xf1.jpeg",
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "episode": 1,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/mtdrb1.m3u8",
+            "subtitle_url": "",
+            "image_url": "https://b.top4top.io/p_3857ujk6e1.jpeg",
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": "",
+            "duration": "00:52:33"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "item-1784913654494-dcuvp",
     "type": "series",
     "title": "المدينة البعيدة",
