@@ -44,6 +44,16 @@
             "intro_start": "00:00:00",
             "intro_end": "00:01:20",
             "duration": "01:52:44"
+          },
+          {
+            "episode": 2,
+            "video_url": "https://dls7rxd829s2x.cloudfront.net/data/7/54c90fa7.mp4",
+            "subtitle_url": "",
+            "image_url": "",
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": "",
+            "duration": ""
           }
         ]
       }
