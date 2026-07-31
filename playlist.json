@@ -2853,12 +2853,12 @@
           {
             "episode": 21,
             "video_url": "https://atv-vod.ercdn.net/video/dizi/sen-anlat-karadeniz/021_lipl/509578e2-4772-4299-b322-6afd1a94d564.hb.smil/playlist.m3u8?st=y4px5Fc1_Ogo1BLrjYREnw&e=1785565287",
-            "subtitle_url": "",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/eshrah21.srt",
             "image_url": "",
             "audio_url": "",
-            "intro_start": "",
-            "intro_end": "",
-            "duration": ""
+            "intro_start": "00:00:00",
+            "intro_end": "00:01:16",
+            "duration": "02:43:05"
           },
           {
             "episode": 26,
