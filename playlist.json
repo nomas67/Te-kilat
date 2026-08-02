@@ -1,5 +1,120 @@
 [
   {
+    "id": "item-1785637705490-1pz69",
+    "type": "series",
+    "title": "القبعة السوداء",
+    "description": "ضابط الصف فولكان، الذي انفصل عن الكتيبة في عملية عبر الحدود، ينطلق في رحلة صعبة دون مغادرة دبابته. في هذه المهمة المليئة بالخطر، يكافح الجنود على أمل العودة إلى ديارهم سالمين.",
+    "poster": "https://up6.cc/2026/08/178563652328131.png",
+    "backdrop": "https://up6.cc/2026/08/178563652330242.png",
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "episode": 1,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alqbah1.m3u8",
+            "subtitle_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alqbah1.srt",
+            "image_url": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/52285_0-0-1919-1080.jpeg",
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": "",
+            "duration": "00:49:36"
+          },
+          {
+            "episode": 2,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alqbah2.m3u8",
+            "subtitle_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alqbah2.srt",
+            "image_url": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/52284_0-0-1919-1080.jpeg",
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": "",
+            "duration": "00:49:12"
+          },
+          {
+            "episode": 3,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alqbah3.m3u8",
+            "subtitle_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alqbah3.srt",
+            "image_url": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/52286_0-0-1919-1080.jpeg",
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": "",
+            "duration": "00:45:18"
+          },
+          {
+            "episode": 4,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alqbah4.m3u8",
+            "subtitle_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alqbah4.srt",
+            "image_url": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/52287_0-0-1919-1080.jpeg",
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": "",
+            "duration": "00:45:45"
+          },
+          {
+            "episode": 5,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alqbah5.m3u8",
+            "subtitle_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alqbah5.srt",
+            "image_url": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/52288_0-0-1919-1080.jpeg",
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": "",
+            "duration": "00:52:49"
+          },
+          {
+            "episode": 6,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alqbah6.m3u8",
+            "subtitle_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alqbah6.srt",
+            "image_url": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/52289_0-0-1919-1080.jpeg",
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": "",
+            "duration": "00:45:36"
+          },
+          {
+            "episode": 7,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alqbah7.m3u8",
+            "subtitle_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alqbah7.srt",
+            "image_url": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/52290_0-0-1919-1080.jpeg",
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": "",
+            "duration": "00:46:56"
+          },
+          {
+            "episode": 8,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alqbah8.m3u8",
+            "subtitle_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alqbah8.srt",
+            "image_url": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/52291_0-0-1919-1080.jpeg",
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": "",
+            "duration": "00:45:32"
+          },
+          {
+            "episode": 9,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alqbah9.m3u8",
+            "subtitle_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alqbah9.srt",
+            "image_url": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/52292_0-0-1919-1080.jpeg",
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": "",
+            "duration": "00:46:11"
+          },
+          {
+            "episode": 10,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alqbah10.m3u8",
+            "subtitle_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/alqbah10.srt",
+            "image_url": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/52293_0-0-1919-1080.jpeg",
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": "",
+            "duration": "00:58:29"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "item-1784944775807-2fk58",
     "type": "series",
     "title": "المتدرب",
