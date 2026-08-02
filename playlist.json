@@ -540,7 +540,7 @@
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ash1.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash1.srt",
             "image_url": "",
-            "audio_url": "",
+            "audio_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ashswt1.m3u8",
             "intro_start": "00:00:00",
             "intro_end": "00:01:05",
             "duration": ""
@@ -550,7 +550,7 @@
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ash2.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash2.srt",
             "image_url": "",
-            "audio_url": "",
+            "audio_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ashswt2.m3u8",
             "intro_start": "00:00:00",
             "intro_end": "00:01:04",
             "duration": ""
@@ -560,7 +560,7 @@
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ash3.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash3.srt",
             "image_url": "",
-            "audio_url": "",
+            "audio_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ashswt3.m3u8",
             "intro_start": "00:00:00",
             "intro_end": "00:01:05",
             "duration": ""
@@ -570,7 +570,7 @@
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ash4.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash4.srt",
             "image_url": "",
-            "audio_url": "",
+            "audio_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ashswt4.m3u8",
             "intro_start": "00:00:00",
             "intro_end": "00:01:05",
             "duration": ""
@@ -580,7 +580,7 @@
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ash5.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash5.srt",
             "image_url": "",
-            "audio_url": "",
+            "audio_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ashswt5.m3u8",
             "intro_start": "00:00:00",
             "intro_end": "00:01:05",
             "duration": ""
@@ -590,7 +590,7 @@
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ash6.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash6.srt",
             "image_url": "",
-            "audio_url": "",
+            "audio_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ashswt6.m3u8",
             "intro_start": "00:00:00",
             "intro_end": "00:01:05",
             "duration": ""
@@ -600,7 +600,7 @@
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ash7.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash7.srt",
             "image_url": "",
-            "audio_url": "",
+            "audio_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ashswt7.m3u8",
             "intro_start": "00:00:00",
             "intro_end": "00:01:05",
             "duration": ""
@@ -610,7 +610,7 @@
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ash8.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash8.srt",
             "image_url": "",
-            "audio_url": "",
+            "audio_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ashswt8.m3u8",
             "intro_start": "00:00:00",
             "intro_end": "00:01:05",
             "duration": ""
@@ -620,7 +620,7 @@
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ash9.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash9.srt",
             "image_url": "",
-            "audio_url": "",
+            "audio_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ashswt9.m3u8",
             "intro_start": "",
             "intro_end": "",
             "duration": ""
@@ -630,7 +630,7 @@
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ash10.m3u8",
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/ash10.srt",
             "image_url": "",
-            "audio_url": "",
+            "audio_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/ashswt10.m3u8",
             "intro_start": "00:00:00",
             "intro_end": "00:01:05",
             "duration": ""
