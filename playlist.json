@@ -1,5 +1,30 @@
 [
   {
+    "id": "item-1785639120797-j6r1t",
+    "type": "series",
+    "title": "شعلة",
+    "description": "نتعرف على قصة الكاتبة والناشطة شعلة يوكسال شنلر، والتي كرست حياتها لتحسين وضع النساء المحافظات في المجتمع التركي أواخر الستينيات.",
+    "poster": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/64830_0-0-2557-3840.jpeg",
+    "backdrop": "https://cms-tabii-public-image.tabii.com/int/webp/w1600/q88/64829_0-0-4319-2099.jpeg",
+    "seasons": [
+      {
+        "season": 1,
+        "episodes": [
+          {
+            "episode": 1,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/aule1.m3u8",
+            "subtitle_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/aule1.srt",
+            "image_url": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/64969_0-59-1918-1079.jpeg",
+            "audio_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/auleswt1.m3u8",
+            "intro_start": "",
+            "intro_end": "",
+            "duration": "00:36:06"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": "item-1785637705490-1pz69",
     "type": "series",
     "title": "القبعة السوداء",
