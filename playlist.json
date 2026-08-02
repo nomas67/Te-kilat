@@ -3952,8 +3952,8 @@
         "episodes": [
           {
             "episode": 1,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/hud1.m3u8",
-            "subtitle_url": "",
+            "video_url": "https://dls7rxd829s2x.cloudfront.net/data/b/7dd739eb.mp4",
+            "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/hud1.srt",
             "image_url": "",
             "audio_url": "",
             "intro_start": "",
