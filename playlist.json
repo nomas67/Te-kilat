@@ -204,6 +204,16 @@
             "intro_start": "",
             "intro_end": "",
             "duration": ""
+          },
+          {
+            "episode": 3,
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/test.m3u8",
+            "subtitle_url": "",
+            "image_url": "",
+            "audio_url": "",
+            "intro_start": "",
+            "intro_end": "",
+            "duration": ""
           }
         ]
       }
