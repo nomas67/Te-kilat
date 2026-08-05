@@ -339,51 +339,51 @@
             "episode": 4,
             "video_url": "https://dl.iplayerhd.com/data/e/2ae6db7e.mp4",
             "subtitle_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/shta4.srt",
-            "image_url": "",
+            "image_url": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/63640.jpeg",
             "audio_url": "",
             "intro_start": "",
             "intro_end": "",
-            "duration": ""
+            "duration": "00:42:30"
           },
           {
             "episode": 5,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/shta5.m3u8",
             "subtitle_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/shta5.srt",
-            "image_url": "",
+            "image_url": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/63641.jpeg",
             "audio_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/shtaswt5.m3u8",
             "intro_start": "",
             "intro_end": "",
-            "duration": ""
+            "duration": "00:42:22"
           },
           {
             "episode": 6,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/shta6.m3u8",
             "subtitle_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/shta6.srt",
-            "image_url": "",
+            "image_url": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/63642.jpeg",
             "audio_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/shtaswt6.m3u8",
             "intro_start": "",
             "intro_end": "",
-            "duration": ""
+            "duration": "00:44:45"
           },
           {
             "episode": 7,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/shta7.m3u8",
             "subtitle_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/shta7.srt",
-            "image_url": "",
+            "image_url": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/63643.jpeg",
             "audio_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/shtaswt7.m3u8",
             "intro_start": "",
             "intro_end": "",
-            "duration": ""
+            "duration": "00:43:09"
           },
           {
             "episode": 8,
             "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/shta8.m3u8",
             "subtitle_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/shta8.srt",
-            "image_url": "",
+            "image_url": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/63644.jpeg",
             "audio_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/shtaswt8.m3u8",
             "intro_start": "",
             "intro_end": "",
-            "duration": ""
+            "duration": "00:43:09"
           }
         ]
       }
