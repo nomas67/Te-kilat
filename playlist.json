@@ -4346,18 +4346,8 @@
             "subtitle_url": "",
             "image_url": "",
             "audio_url": "",
-            "intro_start": "",
-            "intro_end": "",
-            "duration": ""
-          },
-          {
-            "episode": 2,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/Gece1.m3u8",
-            "subtitle_url": "",
-            "image_url": "",
-            "audio_url": "",
-            "intro_start": "",
-            "intro_end": "",
+            "intro_start": "00:03:20",
+            "intro_end": "00:04:58",
             "duration": ""
           }
         ]
