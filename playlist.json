@@ -327,7 +327,7 @@
           },
           {
             "episode": 3,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/shta3.m3u8",
+            "video_url": "https://dl.iplayerhd.com/data/0/07ab0140.mp4",
             "subtitle_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/shta3.srt",
             "image_url": "https://d.top4top.io/p_3857uolmw1.png",
             "audio_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/shtaswt3.m3u8",
@@ -347,7 +347,7 @@
           },
           {
             "episode": 5,
-            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/shta4.m3u8",
+            "video_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/shta5.m3u8",
             "subtitle_url": "",
             "image_url": "",
             "audio_url": "",
