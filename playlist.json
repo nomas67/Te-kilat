@@ -26,8 +26,8 @@
             "subtitle_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/aule1.srt",
             "image_url": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/64969_0-59-1918-1079.jpeg",
             "audio_url": "https://github.com/nomas67/my-hls-video/raw/refs/heads/main/auleswt1.m3u8",
-            "intro_start": "",
-            "intro_end": "",
+            "intro_start": "00:01:07",
+            "intro_end": "00:01:50",
             "duration": "00:36:06"
           }
         ]
