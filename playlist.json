@@ -256,9 +256,9 @@
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/lilatqrn3.srt",
             "image_url": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/66749.jpeg",
             "audio_url": "",
-            "intro_start": "",
-            "intro_end": "",
-            "duration": ""
+            "intro_start": "00:05:14",
+            "intro_end": "00:06:13",
+            "duration": "00:43:47"
           },
           {
             "episode": 4,
@@ -276,9 +276,9 @@
             "subtitle_url": "https://github.com/nomas67/Te-kilat/raw/refs/heads/main/lilatqrn5.srt",
             "image_url": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/66932.jpeg",
             "audio_url": "",
-            "intro_start": "",
-            "intro_end": "",
-            "duration": ""
+            "intro_start": "00:03:34",
+            "intro_end": "00:04:32",
+            "duration": "00:42:48"
           },
           {
             "episode": 6,
@@ -286,9 +286,9 @@
             "subtitle_url": "",
             "image_url": "https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/67043_0-0-1363-767.jpeg",
             "audio_url": "",
-            "intro_start": "",
-            "intro_end": "",
-            "duration": ""
+            "intro_start": "00:05:31",
+            "intro_end": "00:06:30",
+            "duration": "00:53:11"
           }
         ]
       }
